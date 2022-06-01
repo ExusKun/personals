@@ -25,14 +25,6 @@ label {
 	text-align: center;
 	width: 80%
 }
-.submit {
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-	width:200px;
-	height:100px;
-	text-align: center;
-}
 body {
     text-align: left;
     font-family: "DejaVu Sans","trebuchet ms",Geneva,Arial,Helvetica,sans-serif;
