@@ -1,0 +1,38 @@
+.text {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 80%;
+	height: 35px
+}
+label {
+	display: inline-block;	
+    text-align: center;
+	width: 100%;
+	font-size: 15px;
+}
+[href="https://educationperth.elearninglogin.com/login_iframe#"] {
+	display: inline-block;	
+    text-align: center;
+	width: 100%;
+	font-size: 15px;
+}
+#forgot_pword_form {
+	background-color: white;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+	width: 80%
+}
+.submit {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width:200px;
+	height:100px;
+	text-align: center;
+}
+
+
+
