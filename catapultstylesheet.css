@@ -33,6 +33,19 @@ label {
 	height:100px;
 	text-align: center;
 }
-
+body {
+    text-align: left;
+    font-family: "DejaVu Sans","trebuchet ms",Geneva,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    line-height: 1em;
+    color: #333;
+}
+element.style {
+    margin: auto;
+    padding: 0;
+}
+body {
+    display: block;
+}
 
 
