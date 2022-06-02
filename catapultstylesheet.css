@@ -11,6 +11,12 @@ label {
 	width: 100%;
 	font-size: 15px;
 }
+a {
+	display: inline-block;	
+    text-align: center;
+	width: 100%;
+	font-size: 15px;
+}
 [href="https://educationperth.elearninglogin.com/login_iframe#"] {
 	display: inline-block;	
     text-align: center;
@@ -26,14 +32,15 @@ label {
 	width: 80%
 }
 .submit {
+	background-image: url("http://waifs.wa.edu.au/wp-content/uploads/2022/06/submit.png");
+	width: 200px;
+	height: 100px;
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	width:200px;
-	height:100px;
-	text-align: center;
 }
 body {
+	background-color: white;
     text-align: left;
     font-family: "DejaVu Sans","trebuchet ms",Geneva,Arial,Helvetica,sans-serif;
     font-size: 12px;
