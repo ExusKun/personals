@@ -31,7 +31,7 @@ a {
 	text-align: center;
 	width: 80%
 }
-.submit {
+input.submit {
 	background-image: url("http://waifs.wa.edu.au/wp-content/uploads/2022/06/submit.png");
 	width: 200px;
 	height: 100px;
