@@ -11,6 +11,12 @@ label {
 	width: 100%;
 	font-size: 15px;
 }
+a {
+	display: inline-block;	
+    text-align: center;
+	width: 100%;
+	font-size: 15px;
+}
 [href="https://educationperth.elearninglogin.com/login_iframe#"] {
 	display: inline-block;	
     text-align: center;
